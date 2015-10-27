@@ -1,13 +1,13 @@
-
 package generatestudents;
 
 /**
- * Student consists in this example only of an ldap and the amount of ects earned.
- * 
+ * Student consists in this example only of an ldap and the amount of ects
+ * earned.
+ *
  * @author breud
  */
 public class Student {
-    
+
     private final String ldap;
     private final int ects;
     private int hash;
