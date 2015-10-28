@@ -12,7 +12,7 @@ package generatestudents;
 public class QuadraticProbing<Key, Value> {
 
     private int N;
-    private int M = 10501;
+    private int M = 13;
     private Key[] keys;
     private Value[] vals;
     private int cols = 0;

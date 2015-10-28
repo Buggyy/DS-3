@@ -14,7 +14,7 @@ package generatestudents;
  */
 public class SeparateChainingHashST<Key, Value> {
     
-    private int M = 10501;
+    private int M = 13;
     private int N = 0;
     private SequentialSearchST<Key, Value>[] st;
     private int cols;

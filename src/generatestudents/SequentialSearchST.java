@@ -13,7 +13,7 @@ package generatestudents;
 public class SequentialSearchST<Key, Value> {
  
     private int N;          
-    private int M = 10501;
+    private int M = 13;
     private Node first;     
 
  
